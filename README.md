@@ -6,7 +6,7 @@ Journal of my public appearances and other activities.
 
 | Date | Type | Event / Name | Location | Laguage | Role | Link |
 |------|------|-------|----------|---------|------|-------|
-| 2021/11/01 | Article | Как стать джуном и попасть на оплачиваемую стажировку? | Online | RU | Author | [Habr](https://habr.com/en/company/sbermarket/blog/586304//) |
+| 2021/11/01 | Article | Как стать джуном и попасть на оплачиваемую стажировку? | Online | RU | Author | [Habr](https://habr.com/en/company/sbermarket/blog/586304) |
 | 2021/10/31 | Podcast | Карьерный рост от пса до петуха, Сделайте мне красиво | Online | RU | Guest | [SoundCloud](https://soundcloud.com/begebot/ep63) |
 | 2021/10/21 | Article | Три девушки рассказывают есть ли сексизм в IT | Online | RU | Respondent | [Highload.today](https://highload.today/baba-dolzhna-byt-tihaya-tri-devushki-rasskazyvayut-est-li-seksizm-v-it/) |
 | 2021/10/21 | Podcast | Джуны и менторшип, Newpodcast2 | Online | RU | Guest | [YouTube](https://www.youtube.com/watch?v=DGfJAuZGRHQ), [Twitter](https://twitter.com/newpodcast2/status/1451187417919094795?s=20) |
