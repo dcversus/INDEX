@@ -8,6 +8,7 @@ Journal of my public appearances and other activities.
 |------|------|-------|----------|---------|------|-------|
 | 2022/07/13 | Conference | Как кандидату правильно проходить собеседования. Взгляд CTO | Online | RU | Author | [YouTube](https://www.youtube.com/watch?v=MvoFpzUSSs0) |
 | 2022/07/07 | Article | Василиса Версус: «Умение искать работу не связано с техническими скиллами» | Online | RU | Author | [Skillbox](https://skillbox.ru/media/code/vasilisa-versus-umenie-iskat-rabotu-ne-svyazano-s-tekhnicheskimi-skillami/) |
+| 2022/07/07 | Podcast | Women web3 Loozr | Online | EN | Guest | [Twitter](https://twitter.com/officialloozr/status/1544781333347581952?s=20&t=8jNhU4dBomyGT9o5VcBLBg) |
 | 2022/06/29 | Podcast | Василиса Версус стала трижды CTO и смотала в Лиссабон — Релокейт, кэнселинг и нюдсы — Мы обречены | Online | RU | Guest | [YouTube](https://www.youtube.com/watch?v=fQkWp3DBO9s) |
 | 2022/06/24 | Article | Василиса Версус: «Девушкам предъявляют слишком высокий ценз эмоциональной стабильности» | Online | RU | Author | [Skillbox](https://skillbox.ru/media/code/vasilisa-versus-devushkam-predyavlyayut-slishkom-vysokiy-tsenz-emotsionalnoy-stabilnosti/) |
 | 2022/06/09 | Conference | Крестовый поход против легаси в фронтенд-проектах | Online | RU | Author | [JugRuLive](https://live.jugru.org/video?v=MTAwMTI0iiM4NjUwijA), [GitHub](https://github.com/dcversus/conventions) |
