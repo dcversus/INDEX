@@ -6,6 +6,7 @@ Journal of my public appearances and other activities.
 
 | Date | Type | Event / Name | Location | Laguage | Role | Link |
 |------|------|-------|----------|---------|------|-------|
+| 2022/07/27 | Podcast | Блокчейн, крипта, NFT и DAO, UFO station | Online | RU | Guest | [AnchorFM](https://anchor.fm/ufostation/episodes/s02e03-------NFT--DAO-e1loomm/a-a8ab1p2) |
 | 2022/07/13 | Conference | Как кандидату правильно проходить собеседования. Взгляд CTO | Online | RU | Author | [YouTube](https://www.youtube.com/watch?v=MvoFpzUSSs0) |
 | 2022/07/07 | Article | Василиса Версус: «Умение искать работу не связано с техническими скиллами» | Online | RU | Author | [Skillbox](https://skillbox.ru/media/code/vasilisa-versus-umenie-iskat-rabotu-ne-svyazano-s-tekhnicheskimi-skillami/) |
 | 2022/07/07 | Podcast | Women web3 Loozr | Online | EN | Guest | [Twitter](https://twitter.com/officialloozr/status/1544781333347581952?s=20&t=8jNhU4dBomyGT9o5VcBLBg) |
